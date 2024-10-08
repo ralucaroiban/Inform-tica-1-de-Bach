@@ -1,0 +1,12 @@
+class gato:
+    def __init__(self):
+        print("Hola mundo.meaow")
+#--------------------------------------
+
+class perro:
+    def __init__(self):
+        print("Hola mundo, woff!!!")
+#---------------------------------------
+
+gato0 = gato()        
+perro0 = perro()    
